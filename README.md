@@ -2,6 +2,8 @@
 
 This is a Flutter app that generates random word pairs and allows you to favorite them. It features a navigation rail for switching between the word generator and your list of favorites, as well as a history of generated words.
 
+![Walkthrough](namer_app_flutter_walkthrough.gif)
+
 ## Features
 - Generate random word pairs
 - Favorite/unfavorite word pairs
